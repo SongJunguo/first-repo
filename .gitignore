@@ -1,2 +1,5 @@
 access.log
 // with this snippet from .gitignore:
+*.log
+// The .gitignore file is a list of file patterns that Git should ignore.
+// The file patterns are listed one per line.
